@@ -1,0 +1,74 @@
+{
+  "start_url": "/",
+  "shortcuts": [
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "The src to your screenshot",
+      "sizes": "The size of your screenshot, such as 2880x1800",
+      "type": "The type of your image, such as image/png",
+      "description": "The type of your image, such as image/png"
+    }
+  ],
+  "name": "test PWA",
+  "short_name": "testPWA",
+  "theme_color": "#fffe1c",
+  "background_color": "#ffe9d2",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/assets/icons/icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/assets/icons/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/assets/icons/icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/assets/icons/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/assets/icons/icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/assets/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/icon-284x284.png",
+      "type": "image/png",
+      "sizes": "284x284"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
